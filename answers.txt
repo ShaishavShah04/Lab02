@@ -1,0 +1,10 @@
+Q1) Using the socket.SOCK_STREAM arguement in when creating a socket object
+
+Q2) A client is the one sending data first. A server is the one that responds to the requests from the server.
+
+Q3) s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1) This command lets us reuse the same port to bind
+
+Q4) It prints IP and port number of the request.
+
+Q5) The echo server recieves the exact same request the client sends.
+
